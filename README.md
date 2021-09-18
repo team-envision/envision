@@ -1,2 +1,3 @@
-# envision.aaruush.org
-A website for Team Envision
+# team-envision.github.io
+Website of Team Envision
+<a href="https://envision.aaruush.org/">Team Envision Website</a>
